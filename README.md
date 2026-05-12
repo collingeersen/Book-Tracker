@@ -2,11 +2,8 @@
 CSC-289 Capstone Project - Book Tracker Source Code
 
 > [!IMPORTANT]  
-> All commits must be done via a pull request.
-> 
-> Features must have a feature branch to merge into main.
-> 
-> Simple edits (like docs) can be directly commited to main with a pull request.
+> This repo represents the capstone project done for CSC-289. A rewrite with Java in Spring is underwork. The rewrite will follow better OOP principles and dependency injection.
+> Link: [WIP]
 
 ## Project Objectives  
 The primary goals of the software are to develop an application that allows a user to maintain a database for books. This database will track completed books compared to a backlog. This application will allow users to track progress and generate insights into their reading habits. 
